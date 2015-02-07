@@ -144,7 +144,10 @@ the Originals.</p>
 Barker,</hi> Printer to the Queenes
 most excellent Maiestie.</p>
             <p>ANNO 1601.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:446:2"/>
+               <figure/>
+            </p>
          </div>
       </front>
       <body>
@@ -1613,7 +1616,10 @@ of Gods goodnesse, that hath blessed her
 Maiesty in this, as in many things
 else, with so rare and di<g ref="char:EOLhyphen"/>uine
 felicitie.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:446:26"/>
+               <figure/>
+            </p>
          </div>
          <div type="legal_proceedings">
             <pb facs="tcp:446:26"/>
